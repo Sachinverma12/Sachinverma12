@@ -19,5 +19,10 @@ You can click the Preview link to take a look at your changes.
 ## String
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Sachinverma12/Sachinverma12/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/Sachinverma12/Sachinverma12/tree/master/1768-merge-strings-alternately) |
+## Math
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Sachinverma12/Sachinverma12/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
