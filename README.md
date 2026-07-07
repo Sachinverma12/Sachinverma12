@@ -65,3 +65,11 @@ A professional personal portfolio showcasing academic projects and achievements.
 A feature-rich GUI-based calculator with support for standard arithmetic operations.
 ---
 ⭐ **Feel free to explore my repositories and reach out for collaboration!**
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sachinverma12/Sachinverma12/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+<!---LeetCode Topics End-->
