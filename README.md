@@ -72,4 +72,12 @@ A feature-rich GUI-based calculator with support for standard arithmetic operati
 |  |
 | ------- |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sachinverma12/Sachinverma12/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+## Two Pointers
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Sachinverma12/Sachinverma12/tree/master/0345-reverse-vowels-of-a-string) |
+## String
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Sachinverma12/Sachinverma12/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
