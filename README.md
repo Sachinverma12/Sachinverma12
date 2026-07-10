@@ -75,9 +75,11 @@ A feature-rich GUI-based calculator with support for standard arithmetic operati
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Sachinverma12/Sachinverma12/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sachinverma12/Sachinverma12/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Sachinverma12/Sachinverma12/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sachinverma12/Sachinverma12/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
