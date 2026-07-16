@@ -96,6 +96,31 @@ Passionate **BCA (AI & ML)** student with a strong drive for building impactful 
 
 ---
 
+## 🎖️ GitHub Achievements
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Pull_Shark-Pro-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark">
+  <img src="https://img.shields.io/badge/Starstruck-Bronze-F4D03F?style=for-the-badge&logo=github&logoColor=white" alt="Starstruck">
+  <img src="https://img.shields.io/badge/YOLO-Bronze-9B59B6?style=for-the-badge&logo=github&logoColor=white" alt="YOLO">
+  <img src="https://img.shields.io/badge/Quick_Draw-Open-00BCD4?style=for-the-badge&logo=github&logoColor=white" alt="Quick Draw">
+  <img src="https://img.shields.io/badge/Pair_Extraordinary-Open-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="Pair Extraordinary">
+  <img src="https://img.shields.io/badge/Heart_On_Your_Sleeve-Open-E91E63?style=for-the-badge&logo=github&logoColor=white" alt="Heart On Your Sleeve">
+  <img src="https://img.shields.io/badge/Galaxy_Brain-Open-FF9800?style=for-the-badge&logo=github&logoColor=white" alt="Galaxy Brain">
+  <br><br>
+  <sub>🏆 Earn more by contributing to open source — merge PRs, star repos, sponsor projects!</sub>
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Sachinverma12&theme=radical&row=2&column=4&margin-w=15&margin-h=15&no-frame=true">
+    <img src="https://github-profile-trophy.vercel.app/?username=Sachinverma12&theme=flat&row=2&column=4&margin-w=15&margin-h=15&no-frame=true" alt="Trophy Case">
+  </picture>
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -105,7 +130,6 @@ Passionate **BCA (AI & ML)** student with a strong drive for building impactful 
 
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sachinverma12&theme=tokyonight&border_radius=10" alt="GitHub Streak"/>
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=Sachinverma12&theme=tokyonight&row=2&column=3&margin-w=10&margin-h=10&no-frame=true" alt="Trophies"/>
 </div>
 
 <br>
